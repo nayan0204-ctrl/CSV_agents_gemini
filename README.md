@@ -155,3 +155,9 @@ By completing this project, you will understand:
 
 Nayan Suhane  
 AI & Python Beginner Project  
+
+## 📸 Application Screenshot
+
+![CSV Agent UI](images/app_ui.png)
+
+
