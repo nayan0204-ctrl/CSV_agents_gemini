@@ -158,6 +158,8 @@ AI & Python Beginner Project
 
 ## 📸 Application Screenshot
 
-![CSV Agent UI](images/app_ui.png)
+![CSV Agent UI](Screenshot 2026-01-18 004743.png
+)
+
 
 
